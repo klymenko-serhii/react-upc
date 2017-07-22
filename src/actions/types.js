@@ -1,0 +1,10 @@
+export const FETCH_USERS = 'FETCH_USERS';
+
+export const FETCH_POSTS = 'FETCH_POSTS';
+export const FETCH_POSTS_USER = 'FETCH_POSTS_USER';
+export const CLEAR_POSTS = 'CLEAR_POSTS';
+
+export const FETCH_COMMENTS = 'FETCH_COMMENTS';
+export const FETCH_COMMENTS_POST = 'FETCH_COMMENTS_POST';
+export const CLEAR_COMMENTS = 'CLEAR_COMMENTS';
+
